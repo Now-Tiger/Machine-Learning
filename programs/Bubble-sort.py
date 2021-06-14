@@ -34,3 +34,6 @@ print('sorted data in decending order :', data)
 array2 = ['k', 'l', 'z', 'm', 'o', 't', 'a']
 bubblesort(array2)
 array2
+
+
+
