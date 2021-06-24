@@ -1,2 +1,2 @@
-# Work
-College assignments and other work related to programming.
+# Machine Learning & Data Science knowledge with statistics.
+* Basics to intermediate.
