@@ -21,3 +21,7 @@ printArray(arr, 7)
 arr = [2, 8, 5, 6, 1, 3, 4]
 leftrotate(arr, 4, 7)
 printArray(arr, 7)
+
+
+# Time Complexity : O(n*d)
+# Auxillary Complexity : O(1)
