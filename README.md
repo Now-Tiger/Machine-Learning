@@ -1,5 +1,6 @@
 # Machine Learning & Data Science knowledge with statistics.
 * __What is Machine-Learning ?__
+* __Machine learning (ML) is a modern software development technique and a type of artificial intelligence (AI) that enables computers to solve problems by using examples of real-world data. It allows computers to automatically learn and improve from experience without being explicitly programmed to do so.__
 
 * “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
 
