@@ -7,3 +7,6 @@
 * “Machine learning is the science of getting computers to act without being explicitly programmed.” 
 
 * __Dr. Yoshua Bengio, Université de Montréal :__ Machine learning research is part of research on artificial intelligence, seeking to provide knowledge to computers through data, observations and interacting with the world. That acquired knowledge allows computers to correctly generalize to new settings. 
+
+# Machine learning process.
+* In machine learning a problem soblver abstracts away part of their solution as a flexible component called a __model__, and uses a special program called model training algorithm to adjust that model according the real-world data. The result is the __trained model__ which can be used to predict outcomes that are not part of the data set used to train.
