@@ -14,4 +14,4 @@ The data features that you use to train your machine learning models have a huge
 ### Benifits :
 * __Reduces Overfitting :__ Less redundant data means less opportunity to make decisions based on noise.
 * __Improves Accuracy :__ Less misleading data means modeling accuracy improves.
-* __Reduces Training Time :__ fewer data points reduce algorithm complexity and algorithms train er.__
+* __Reduces Training Time :__ fewer data points reduce algorithm complexity and algorithms train faster.
