@@ -3,8 +3,8 @@
 The data features that you use to train your machine learning models have a huge influence on the performance you can achieve.
 * Irrelevant or partially relevant features can negatively impact model performance.
 
-* Feature Selection is the process where you automatically or manually select those features which contribute most to your prediction variable or output in which you are interested in.
-* Having irrelevant features in your data can decrease the accuracy of the models and make your model learn based on irrelevant features.
+* __Feature Selection is the process where you automatically or manually select those features which contribute most to your prediction variable or output in which you are interested in.__
+* Having ```irrelevant``` features in your data can __decrease__ the accuracy of the models and make your model learn based on irrelevant features.
 
 # How to select these most important features ?
 ### Feature Selection Methods:
