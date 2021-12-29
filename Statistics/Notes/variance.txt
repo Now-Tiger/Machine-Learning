@@ -1,0 +1,21 @@
+1.  Variance :
+    -   Variance is a measure of variability.
+    -   It is calculated by taking the average of squared deviations from the mean.
+    -   Variance tell you the degree of spread in your data set. 
+    -   The more spread the data, the larger the variance is in relation to the mean.
+
+2.  Variance vs Standard deviation :
+    -   The standard deviation is derived from the variance and tells you, on average, 
+        how far each value lies from the mean. It's the "Squared root of variance"
+
+    -   Both measures reflect variability in a distribution, but their units differ :
+        -   Standard deviation is expressed in the same unit as the original values :
+            e.g meters.
+        -   Variance is expressed in much larger units : e.g meters squared.
+
+    -   Since the units of variance are much larger than those of a typical value of 
+        a data set, it’s harder to interpret the variance number intuitively. 
+        That’s why standard deviation is often preferred as a main measure of variability.
+
+    *   However, the variance is more informative about variability than the standard deviation, 
+        and it’s used in making statistical inferences.
